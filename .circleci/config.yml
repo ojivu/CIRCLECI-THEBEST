@@ -1,4 +1,5 @@
-version: 21
+version: 2.0
+
 jobs:
   build:
   machine:
